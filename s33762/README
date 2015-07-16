@@ -1,0 +1,1 @@
+Read from IN.1 throught IN.4. Write the input number when the value goes from 0 to 1. Two interrupts will never change in the same input cycle.

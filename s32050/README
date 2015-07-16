@@ -1,0 +1,1 @@
+Read a value from IN. Compare value to previous value. Write 1 if changed by 10 or more. If not true, write 0 instead. The first output is always 0.

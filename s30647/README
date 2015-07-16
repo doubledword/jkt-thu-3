@@ -1,0 +1,1 @@
+Sequences are zero-terminated. Read values from IN.A and IN.B. Write the lesser value to OUT. Write the greater value to OUT. Write 0 to end the sequence.
