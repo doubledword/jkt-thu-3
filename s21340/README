@@ -1,0 +1,1 @@
+Read a value from IN. Write 1 to OUT.G if IN > 0. Write 1 to OUT.E if IN = 0. Write 1 to OUT.L if IN < 0. When 1 is not written to an output, write a 0 instead.
